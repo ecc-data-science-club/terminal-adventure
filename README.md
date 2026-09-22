@@ -1,6 +1,6 @@
 # Let's Practice Using the Command Line!
 
-We adapted this tutorial from [Jacob Wolf and Making with Code](https://cs.fablearn.org/courses/cs9/unit00/labs/lab1_terminal/). :)
+Built by Alexis Gonzalez. Adapted from this tutorial from [Jacob Wolf and Making with Code](https://cs.fablearn.org/courses/cs9/unit00/labs/lab1_terminal/).
 
 ## Let's go on an adventure
 
