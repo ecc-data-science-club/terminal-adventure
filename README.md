@@ -6,6 +6,7 @@ Built by Alexis Gonzalez. Adapted from this tutorial from [Jacob Wolf and Making
 
 ### Mac Installation
 This is assuming that you have already installed brew and git from our other milestones. Please go back to the vs_code_instructions if you missed that. Let's use `brew` to install python3 (we won't be coding in python at all; we just need it for the terminal adventure). Type this into your terminal inside Visual Studio Code:
+
 ```
 brew install python
 ```
@@ -23,15 +24,15 @@ node welcomeToSurface.js
 ```
 
 ### Windows Installation
+This is assuming that you have already installed brew and git from our other milestones. Please go back to the vs_code_instructions if you missed that.
+First, download [Python](https://www.python.org/). We won't be coding in python at all; we just need it for the terminal adventure.
 
-First, download [Python](https://www.python.org/) and [Node.js](https://nodejs.org/en)
+Then, type this into your terminal so you can make a copy of our terminal adventure project:
 
-If git isn't installed yet, download if from [here](https://git-scm.com/install/windows).
-
-Make a copy of our terminal adventure project:
 ```
 git clone https://github.com/ecc-data-science-club/terminal-adventure.git
 ```
+
 Type the following to get started. You will need to use terminal commands!
 
 ```
